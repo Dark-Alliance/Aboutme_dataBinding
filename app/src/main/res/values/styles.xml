@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="StyleTextView">
+        <item name="android:fontFamily">@font/roboto_light</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="NameStyle">
+        <item name="android:layout_marginTop">@dimen/layoutMargin</item>
+        <item name="fontFamily">@font/roboto_light</item>
+        <item name="android:paddingTop">@dimen/small_padding</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">@dimen/textSize</item>
+    </style>
+
+
+
+
+</resources>

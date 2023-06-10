@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Rishu</string>
+    <string name="avatar">Avatar\n\n</string>
+    <string name="bio">In my current position at ABC, \n
+        \nI have supervised all phases of our\n
+        \nonline marketing initiatives,\n
+        \nboth technical and creative. Last year, \n
+        \nmy key challenge was to design\n
+        \nand optimize nine product websites for ABC’s\n
+        \n most strategic products and improve\n
+        \nur SEO results, as well as enhancing the UX. Here we are a year later.
+    \nI know that XYZ’s current plans involve developing a comprehensive online portal focused on healthcare-related issues.
+        \n
+        \n
+        \n
+        \nThis project is a perfect match for my personal and professional interests and an\n
+        \nexciting opportunity to create a unique\n
+        \nonline base of knowledge for patients and healthcare professionals.\n
+        \nI would love to leverage my\n
+        \nknowledge of SEO marketing and online\n
+        \ngrowth marketing to achieve groundbreaking\n
+        \nresults with this initiative.\n</string>
+    <string name="What_is_your_nick_name">What is your nick name</string>
+    <string name="done">Done</string>
+
+
+</resources>
